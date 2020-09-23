@@ -6,5 +6,8 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("add new line");
         System.out.println("add new file");
+        System.out.println("hello git");
+        System.out.println("add new line");
+        System.out.println("add new file");
     }
 }
